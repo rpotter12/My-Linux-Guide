@@ -1,2 +1,2 @@
 # My-Linux-Guide
-A whole linux guide to perform different task.
+This repository is created in order to learn linux or to learn how to use linux.
