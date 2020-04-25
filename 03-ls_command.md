@@ -190,3 +190,26 @@ Mandatory arguments to long options are  mandatory  for  short  options
        --version
               output version information and exit
 ```
+
+Example:
+
+1. `-a` - shows all the hidden and unhidden files.
+```shell
+$ ls -a
+```
+Output - 
+```
+.
+ ..
+ .bashrc
+ .config
+ Desktop
+ Documents
+ Downloads
+ .gitconfig
+ Music
+ Templates
+ .tmux.conf
+ Videos
+ .viminfo
+```
