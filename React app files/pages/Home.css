@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+.home {
+    display: flex;
+    height: 100vh;
+    background-color: #282c34;
+    align-items: center;
+    /*justify-content: center;*/
+    flex-direction: column;
+}
+
+.logo {
+    color: aliceblue;
+    font-size: 400%;
+    padding: 0% 0% 4% 0%;
+}
+
+.home_input >input {
+    height: 30px;
+    width: 400px;
+    font-size: large;
+}
+
+.home_input >input:focus {
+    outline-width: 0;
+}
+
+.home_input >Button {
+    background-color: rgb(147, 148, 149);
+}
